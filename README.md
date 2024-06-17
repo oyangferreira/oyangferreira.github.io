@@ -1,5 +1,7 @@
 # oyangferreira.github.io
 
-<img src="perfil2.png">
+<div style="text-align: center;">
+  <img src="perfil2.png" alt="Perfil">
+</div>
 
 # Teste2
