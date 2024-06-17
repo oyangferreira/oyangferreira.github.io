@@ -1,9 +1,9 @@
-# Bem-vindo ao oyangferreira.github.io
+# Portfolio
 
 <br>
 
 <p align="center">
-  <img src="perfil2.png" alt="Foto de perfil">
+  <img src="perfil2.png" alt="Foto de perfil" width="150">
 </p>
 
 <br>
