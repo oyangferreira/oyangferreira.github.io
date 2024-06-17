@@ -1,5 +1,5 @@
 # oyangferreira.github.io
 
-<img src="assets/img/perfil.png">
+<img src="perfil2.png">
 
 # Teste
