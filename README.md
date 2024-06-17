@@ -1,13 +1,13 @@
-# oyangferreira.github.io
+# Bem-vindo ao oyangferreira.github.io
 
 <br>
 
 <p align="center">
-  <img src="perfil2.png" alt="Perfil">
+  <img src="perfil2.png" alt="Foto de perfil">
 </p>
 
 <br>
 
-<p align="center">
-  Bem-vindo ao meu portfólio pessoal! Aqui você encontrará uma coleção dos meus projetos e experiências. Este repositório possui funcionalidades exclusivas, como modo noturno e suporte para tradução para inglês, para melhorar a sua experiência de navegação.
+<p align="justify">
+Olá! Este é o meu portfólio pessoal, onde compartilho uma seleção dos meus projetos e experiências. Aqui você encontrará uma variedade de trabalhos que refletem minha paixão por desenvolvimento full-stack. Este repositório é único por oferecer funcionalidades especiais, como modo noturno para facilitar a leitura e suporte para tradução para inglês, ampliando o alcance das informações apresentadas.
 </p>
