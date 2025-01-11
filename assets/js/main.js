@@ -386,8 +386,8 @@ function mudarIdioma() {
     contactLabel[2].textContent = "Mensagem";
 
     footerTitle.textContent = "Yang";
-    footerSubtitle.textContent = "Desenvolvedor Full-Stack";
-    footerSubtitle.textContent = "Desenvolvedor Full-Stack";
+    footerSubtitle.textContent = "Desenvolvedor Front-end";
+    footerSubtitle.textContent = "Desenvolvedor Front-end";
 
     footerLinks[0].textContent = "Experiência";
     footerLinks[1].textContent = "Projetos";
@@ -549,7 +549,7 @@ function mudarIdioma() {
     contactLabel[2].textContent = "Message";
 
     footerTitle.textContent = "Yang";
-    footerSubtitle.textContent = "Full-Stack Developer";
+    footerSubtitle.textContent = "Front-end Developer";
 
     footerLinks[0].textContent = "Experience";
     footerLinks[1].textContent = "Projects";
