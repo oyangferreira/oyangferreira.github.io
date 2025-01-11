@@ -382,7 +382,7 @@ function mudarIdioma() {
     contactLabel[1].textContent = "E-mail";
 
     contactTitulos[2].textContent = "Localização";
-    contactSubtitulos[2].textContent = "Peruíbe - 11770-886";
+    contactSubtitulos[2].textContent = "Peruíbe - 11772-712";
     contactLabel[2].textContent = "Mensagem";
 
     footerTitle.textContent = "Yang";
@@ -545,7 +545,7 @@ function mudarIdioma() {
     contactLabel[1].textContent = "Email";
 
     contactTitulos[2].textContent = "Location";
-    contactSubtitulos[2].textContent = "Peruíbe - 11770-886";
+    contactSubtitulos[2].textContent = "Peruíbe - 11772-712";
     contactLabel[2].textContent = "Message";
 
     footerTitle.textContent = "Yang";
